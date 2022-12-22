@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jonerrr&color=lightgrey&style=for-the-badge" alt="Profile Views">
-</p>
+
+![](https://komarev.com/ghpvc/?username=jonerrr&color=lightgrey&style=for-the-badge)
 
 ## Some of the things I've used:
 
@@ -60,3 +59,4 @@
 
 </details>
 
+**You can reach me at: [enquiries@jnr.cx](mailto:enquiries@jnr.cx)**
