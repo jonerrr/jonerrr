@@ -24,6 +24,6 @@ ${{\color{lightskyblue}{\textsf{ | Linux}}}}$ ${{\color{lightgreen}{\textsf{| Wi
 
 ${{\color{lightsalmon}\Huge{\textsf{ Technologies }}}}$
 
-${{\color{lightskyblue}{\textsf{ | Docker | Kubernetes | Traefik | GraphQL | Cloudflare Workers}}}}$ ${{\color{lightgreen}{\textsf{| Lambda | Shopify | Stripe | Mapbox | }}}}$
+${{\color{lightskyblue}{\textsf{ | Docker | Kubernetes | Traefik | Cloudflare Workers}}}}$ ${{\color{lightgreen}{\textsf{| Lambda | Shopify | Stripe | Mapbox | }}}}$
 
 You can reach me at: **enquiries@jnr.cx**
