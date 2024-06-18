@@ -12,11 +12,11 @@ ${{\color{lightskyblue}{\textsf{ | PostgreSQL | Redis}}}}$ ${{\color{lightgreen}
 
 ${{\color{lightsalmon}\Huge{\textsf{ Libraries }}}}$
 
-${{\color{lightskyblue}{\textsf{ | Svelte  | React | SQLx}}}}$ ${{\color{lightgreen}{\textsf{| Mantine | }}}}$
+${{\color{lightskyblue}{\textsf{ | Svelte  | React | SQLx}}}}$ ${{\color{lightgreen}{\textsf{| Pandas | Mantine | }}}}$
 
 ${{\color{lightsalmon}\Huge{\textsf{ Frameworks }}}}$
 
-${{\color{lightskyblue}{\textsf{ | Sveltekit  | TailwindCSS | Axum}}}}$ ${{\color{lightgreen}{\textsf{| Next.js | Mantine | Fastify | Express.js | }}}}$ 
+${{\color{lightskyblue}{\textsf{ | Sveltekit  | TailwindCSS | Axum}}}}$ ${{\color{lightgreen}{\textsf{| Next.js | Fastify | Express.js | }}}}$ 
 
 ${{\color{lightsalmon}\Huge{\textsf{ Operating Systems }}}}$
 
