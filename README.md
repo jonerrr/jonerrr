@@ -26,4 +26,4 @@ ${{\color{lightsalmon}\Huge{\textsf{ Technologies }}}}$
 
 ${{\color{lightskyblue}{\textsf{ | Docker | Kubernetes | Traefik | Cloudflare Workers}}}}$ ${{\color{lightgreen}{\textsf{| Lambda | Shopify | Stripe | Mapbox | }}}}$
 
-You can reach me at: **enquiries@jnr.cx**
+You can reach me at enquiries at jnr dot cx
