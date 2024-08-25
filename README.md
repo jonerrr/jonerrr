@@ -12,7 +12,7 @@ ${{\color{lightskyblue}{\textsf{ | PostgreSQL | Redis}}}}$ ${{\color{lightgreen}
 
 ${{\color{lightsalmon}\Huge{\textsf{ Libraries }}}}$
 
-${{\color{lightskyblue}{\textsf{ | Svelte  | React | SQLx}}}}$ ${{\color{lightgreen}{\textsf{| Pandas | Mantine | }}}}$
+${{\color{lightskyblue}{\textsf{ | Svelte  | React | SQLx}}}}$ ${{\color{lightgreen}{\textsf{| Pandas | GeoPandas | Mantine | }}}}$
 
 ${{\color{lightsalmon}\Huge{\textsf{ Frameworks }}}}$
 
