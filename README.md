@@ -10,7 +10,7 @@ ${{\color{JungleGreen}{\textsf{ | PostgreSQL | Redis | MongoDB | DynamoDB | SQL 
 
 ${{\color{maroon}\Huge{\textsf{ Libraries }}}}$
 
-${{\color{JungleGreen}{\textsf{ | Svelte | React | SQLx | Pandas | GeoPandas | Mantine | }}}}$
+${{\color{JungleGreen}{\textsf{ | Svelte | React | SQLx | MapLibre GL JS | Pandas | GeoPandas | Mantine | }}}}$
 
 ${{\color{maroon}\Huge{\textsf{ Frameworks }}}}$
 
@@ -22,6 +22,6 @@ ${{\color{JungleGreen}{\textsf{ | Linux | Windows | MacOS | }}}}$
 
 ${{\color{maroon}\Huge{\textsf{ Technologies }}}}$
 
-${{\color{JungleGreen}{\textsf{ | Docker | Kubernetes | Traefik | Cloudflare Workers | Lambda | Shopify | Stripe | Mapbox | }}}}$
+${{\color{JungleGreen}{\textsf{ | Docker | Kubernetes | Traefik | Cloudflare Workers | FluxCD | GitHub Actions | Lambda | Shopify | Stripe | Mapbox | }}}}$
 
 You can reach me at enquiries at jnr dot cx
