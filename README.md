@@ -1,29 +1,27 @@
-
 ![](https://komarev.com/ghpvc/?username=jonerrr&color=lightgrey&style=for-the-badge)
-
 
 ${{\color{maroon}\Huge{\textsf{ Languages }}}}$
 
-${{\color{DarkOrchid}{\textsf{ | Rust | Typescript}}}}$ ${{\color{JungleGreen}{\textsf{| Javascript | C++ | SQL | GraphQL | Python | }}}}$
+${{\color{JungleGreen}{\textsf{ | Rust | Typescript | Javascript | Python | C++ | SQL | GraphQL | }}}}$
 
 ${{\color{maroon}\Huge{\textsf{ Databases }}}}$
 
-${{\color{DarkOrchid}{\textsf{ | PostgreSQL | Redis}}}}$ ${{\color{JungleGreen}{\textsf{| MongoDB | DynamoDB |}}}}$
+${{\color{JungleGreen}{\textsf{ | PostgreSQL | Redis | MongoDB | DynamoDB | SQL Server | }}}}$
 
 ${{\color{maroon}\Huge{\textsf{ Libraries }}}}$
 
-${{\color{DarkOrchid}{\textsf{ | Svelte  | React | SQLx}}}}$ ${{\color{JungleGreen}{\textsf{| Pandas | GeoPandas | Mantine | }}}}$
+${{\color{JungleGreen}{\textsf{ | Svelte | React | SQLx | Pandas | GeoPandas | Mantine | }}}}$
 
 ${{\color{maroon}\Huge{\textsf{ Frameworks }}}}$
 
-${{\color{DarkOrchid}{\textsf{ | Sveltekit  | TailwindCSS | Axum}}}}$ ${{\color{JungleGreen}{\textsf{| Next.js | Fastify | Express.js | }}}}$ 
+${{\color{JungleGreen}{\textsf{ | Sveltekit  | TailwindCSS | Axum | Next.js | Fastify | Express.js | Discord.js | }}}}$ 
 
 ${{\color{maroon}\Huge{\textsf{ Operating Systems }}}}$
 
-${{\color{DarkOrchid}{\textsf{ | Linux}}}}$ ${{\color{JungleGreen}{\textsf{| Windows | MacOS | }}}}$ 
+${{\color{JungleGreen}{\textsf{ | Linux | Windows | MacOS | }}}}$ 
 
 ${{\color{maroon}\Huge{\textsf{ Technologies }}}}$
 
-${{\color{DarkOrchid}{\textsf{ | Docker | Kubernetes | Traefik | Cloudflare Workers}}}}$ ${{\color{JungleGreen}{\textsf{| Lambda | Shopify | Stripe | Mapbox | }}}}$
+${{\color{JungleGreen}{\textsf{ | Docker | Kubernetes | Traefik | Cloudflare Workers | Lambda | Shopify | Stripe | Mapbox | }}}}$
 
 You can reach me at enquiries at jnr dot cx
