@@ -14,7 +14,7 @@ ${{\color{JungleGreen}{\textsf{ | Svelte | React | TailwindCSS | AG Grid | MapLi
 
 ${{\color{maroon}\Huge{\textsf{ Backend }}}}$
 
-${{\color{JungleGreen}{\textsf{ | Axum | FastAPI | Fastify | SQLx }}}}$
+${{\color{JungleGreen}{\textsf{ | Axum | FastAPI | Fastify | SQLx | }}}}$
 
 ${{\color{maroon}\Huge{\textsf{ Data Science }}}}$
 
